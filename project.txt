@@ -1,1 +1,13 @@
+
 This is a sample file for Code Review practice.
+
+Project: Reviewing Code on GitHub
+Author: Armin
+Purpose: Practice Code Review workflow (Reviewer + Author roles)
+
+Features:
+- Create a Pull Request
+- Perform Code Review
+- Request changes
+- Apply fixes
+- Approve and merge
